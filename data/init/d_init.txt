@@ -56,7 +56,7 @@ Alter these options to control how aggressively your dwarves place objects in a 
 
 Change this to YES to disallow pets from coffin burial as the default option.
 
-[COFFIN_NO_PETS_DEFAULT:YES]
+[COFFIN_NO_PETS_DEFAULT:NO]
 
 Use these to set the color of wounded body parts.  The format is <foreground color>:<background color>:<brightness>.
 
@@ -69,7 +69,7 @@ Use these to set the color of wounded body parts.  The format is <foreground col
 
 This controls the display of areas that are far below outside.  The format is SKY:<character>:<foreground color>:<background color>:<brightness>.  The <character> can be either an ASCII tile number or a character in quotes, like '#'.
 
-[SKY:178:3:0:0]
+[SKY:172:3:0:0]
 
 As above, for inside/subterranean areas.
 
@@ -77,7 +77,7 @@ As above, for inside/subterranean areas.
 
 Pillar tile, <character> as above.
 
-[PILLAR_TILE:'O']
+[PILLAR_TILE:245]
 
 Track tiles.  I at the end inverts the material colors.
 
@@ -247,7 +247,7 @@ If you don't like the ,.`' ground, try setting this to NO.  The ground will turn
 
 If you'd like your engravings to start off looking the same (you can toggle them on individual later), set this to YES.
 
-[ENGRAVINGS_START_OBSCURED:NO]
+[ENGRAVINGS_START_OBSCURED:YES]
 
 If you get annoyed by seeing items like *<*sword*>* you can
 get rid of the outside ** by setting this to NO.
@@ -256,7 +256,7 @@ get rid of the outside ** by setting this to NO.
 
 Set this to YES to display fluids as numbers indicating depth.
 
-[SHOW_FLOW_AMOUNTS:YES]
+[SHOW_FLOW_AMOUNTS:NO]
 
 If you'd prefer to leave the history behind every engraving for your adventurers to discover, then set this to NO.
 
