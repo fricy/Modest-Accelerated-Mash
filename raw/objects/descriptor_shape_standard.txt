@@ -52,7 +52,7 @@ descriptor_shape_standard
 	[ADJ:full]
 	[ADJ:crescent]
 	[ADJ:half]
-	[TILE:7]
+	[TILE:36]
 
 [SHAPE:WAVE]
 	[NAME:wave:waves]

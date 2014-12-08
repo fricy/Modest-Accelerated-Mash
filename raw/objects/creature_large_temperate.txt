@@ -783,7 +783,7 @@ creature_large_temperate
 	[NAME:groundhog:groundhogs:groundhog]
 	[CASTE_NAME:groundhog:groundhogs:groundhog]
 	[GENERAL_CHILD_NAME:groundhog pup:groundhog pups]
-	[CREATURE_TILE:'g'][COLOR:6:0:0]
+	[CREATURE_TILE:159][COLOR:6:0:0]
 	[PETVALUE:50]
 	[PET_EXOTIC]
 	[STANDARD_GRAZER]
@@ -880,7 +880,7 @@ creature_large_temperate
 	[NAME:alligator:alligators:alligator]
 	[CASTE_NAME:alligator:alligators:alligator]
 	[CHILD:1][GENERAL_CHILD_NAME:alligator hatchling:alligator hatchlings]
-	[CREATURE_TILE:'A'][COLOR:2:0:0]
+	[CREATURE_TILE:163][COLOR:2:0:0]
 	[AMPHIBIOUS]
 	[BIOME:SWAMP_TEMPERATE_FRESHWATER]
 	[BIOME:MARSH_TEMPERATE_FRESHWATER]
@@ -976,7 +976,7 @@ creature_large_temperate
 	[NAME:buzzard:buzzards:buzzard]
 	[CASTE_NAME:buzzard:buzzards:buzzard]
 	[GENERAL_CHILD_NAME:buzzard hatchling:buzzard hatchlings]
-	[CREATURE_TILE:'b'][COLOR:0:0:1]
+	[CREATURE_TILE:148][COLOR:0:0:1]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
 	[LOOSE_CLUSTERS]
@@ -1285,7 +1285,7 @@ Capybaras were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:capybara:capybaras:capybara]
 	[CASTE_NAME:capybara:capybaras:capybara]
 	[CHILD:1][GENERAL_CHILD_NAME:capybara pup:capybara pups]
-	[CREATURE_TILE:'c'][COLOR:6:0:0]
+	[CREATURE_TILE:159][COLOR:6:0:0]
 	[PETVALUE:100]
 	[PET]
 	[NATURAL]
@@ -1395,7 +1395,7 @@ Capybaras were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A huge rodent that walks on tall legs.  Its bark can be heard at large distances.  It is fond of swimming.]
 	[POPULATION_NUMBER:20:30]
 	[CLUSTER_NUMBER:5:10]
-	[CREATURE_TILE:'C']
+	[CREATURE_TILE:159]
 	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
@@ -1634,7 +1634,7 @@ Moose were sponsored by the generous contributions of the Bay 12 community.
 
 	Silophant - "one of these once bit my sister"
 	"Beware the room with a moose."
-	A møøse once bit my sister. / Mynd you, møøse bites kan be pretty nasti...
+	A mse once bit my sister. / Mynd you, mse bites kan be pretty nasti...
 
 [CREATURE:MOOSE]
 	[DESCRIPTION:A large mammal with great antlers and a large nose. It lives in temperate forests.]
