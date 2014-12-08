@@ -6,7 +6,7 @@ creature_insects
 	[DESCRIPTION:A tiny flying insect found around rotting meat and garbage.  These bugs are widely considered to be a nuisance.]
 	[NAME:fly:flies:fly]
 	[CASTE_NAME:fly:flies:fly]
-	[CREATURE_TILE:250][COLOR:0:0:1]
+	[CREATURE_TILE:250][COLOR:7:0:0]
 	[NATURAL]
 	[BIOME:NOT_FREEZING]
 	[BIOME:ANY_POOL]
@@ -249,7 +249,7 @@ creature_insects
 
 [CREATURE:BUTTERFLY_MONARCH]
 	[DESCRIPTION:A small insect with large orange wings.  It is admired for its beauty.]
-	[CREATURE_TILE:249][COLOR:4:0:1]
+	[CREATURE_TILE:182][COLOR:4:14:0]
 	[NAME:monarch butterfly:monarch butterflies:monarch butterfly]
 	[CASTE_NAME:monarch butterfly:monarch butterflies:monarch butterfly]
 	[NATURAL]
