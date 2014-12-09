@@ -999,7 +999,7 @@ language_ELF
 	[T_WORD:YEAR:emene]
 	[T_WORD:YEARLING:ayara]
 	[T_WORD:YELLOW:yame]
-	[T_WORD:YOR:lirena]
+	[T_WORD:YORE:lirena]
 	[T_WORD:YOUNG:yice]
 	[T_WORD:YOUTH:capi]
 	[T_WORD:ZEAL:careme]
