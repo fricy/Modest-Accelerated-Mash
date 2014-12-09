@@ -246,7 +246,7 @@ creature_small_ocean
 	[DESCRIPTION:A small, spineless, eel-like fish that lives on the bottom of the ocean.  It can turn the water around its body into a cloud of slime to escape predators.]
 	[NAME:hagfish:hagfish:hagfish]
 	[CASTE_NAME:hagfish:hagfish:hagfish]
-	[CREATURE_TILE:21][COLOR:6:0:0]
+	[CREATURE_TILE:21][COLOR:3:0:0]
 	[AQUATIC][SMALL_REMAINS][UNDERSWIM]
 	[VERMIN_FISH][VERMIN_GROUNDER][FISHITEM][IMMOBILE_LAND][VERMIN_NOTRAP]
 	[NATURAL]
@@ -515,7 +515,7 @@ creature_small_ocean
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:FISH_RATFISH_SPOTTED]
-	[DESCRIPTION:A small, shark-like creature that lives in the ocean’s muddy shallows.  Its skin sparkles and it has a venomous spine on its back.]
+	[DESCRIPTION:A small, shark-like creature that lives in the oceans muddy shallows.  Its skin sparkles and it has a venomous spine on its back.]
 	[NAME:spotted ratfish:spotted ratfish:spotted ratfish]
 	[CASTE_NAME:spotted ratfish:spotted ratfish:spotted ratfish]
 	[CREATURE_TILE:160][COLOR:6:0:0]
